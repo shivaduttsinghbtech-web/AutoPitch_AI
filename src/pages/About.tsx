@@ -10,18 +10,18 @@ export default function About() {
         className="w-full mb-6"
       >
         <h1 className="text-4xl font-semibold tracking-tight text-white mb-6">
-          About Orbit
+          About AutoPitch Ai
         </h1>
         <div className="prose prose-invert prose-zinc prose-sm md:prose-base">
           <p className="text-zinc-400 text-lg leading-relaxed">
-            We built Orbit to solve a very specific problem: understanding why a landing page isn't converting, and fixing it fast.
+            We built AutoPitch Ai to solve a very specific problem: understanding why a landing page isn't converting, and fixing it fast.
           </p>
           <p className="text-zinc-400 leading-relaxed mt-4">
             In the early days of building our own SaaS, we spent countless hours manually auditing competitors, writing 
             outreach scripts, and drafting proposals. It was a tedious process that didn't scale.
           </p>
           <p className="text-zinc-400 leading-relaxed mt-4">
-            Orbit changes that. By combining advanced heuristic analysis with LLM-powered context generation, 
+            AutoPitch Ai changes that. By combining advanced heuristic analysis with LLM-powered context generation, 
             we can instantly identify the fundamental friction points in any funnel.
           </p>
           
